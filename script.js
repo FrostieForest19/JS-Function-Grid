@@ -1,1 +1,58 @@
 //Write your function calls below this line
+setColor(1, 3, "yellow")
+setColor(1, 4, "yellow")
+setColor(1, 5, "yellow")
+
+setColor(2, 2, "yellow")
+setColor(2, 3, "yellow")
+setColor(2, 4, "yellow")
+setColor(2, 5, "yellow")
+setColor(2, 6, "yellow")
+
+
+setColor(3, 1, "yellow")
+setColor(3, 2, "yellow")
+setColor(3, 3, "black")
+setColor(3, 4, "yellow")
+setColor(3, 5, "black")
+setColor(3, 6, "yellow")
+setColor(3, 7, "yellow")
+
+setColor(4, 0, "yellow")
+setColor(4, 1, "yellow")
+setColor(4, 2, "yellow")
+setColor(4, 3, "yellow")
+setColor(4, 4, "yellow")
+setColor(4, 5, "yellow")
+setColor(4, 6, "yellow")
+setColor(4, 7, "yellow")
+setColor(4, 8, "yellow")
+
+setColor(5, 0, "yellow")
+setColor(5, 1, "yellow")
+setColor(5, 2, "black")
+setColor(5, 3, "yellow")
+setColor(5, 4, "yellow")
+setColor(5, 5, "yellow")
+setColor(5, 6, "black")
+setColor(5, 7, "yellow")
+setColor(5, 8, "yellow")
+
+setColor(6, 1, "yellow")
+setColor(6, 2, "yellow")
+setColor(6, 3, "black")
+setColor(6, 4, "black")
+setColor(6, 5, "black")
+setColor(6, 6, "yellow")
+setColor(6, 7, "yellow")
+
+setColor(7, 2, "yellow")
+setColor(7, 3, "yellow")
+setColor(7, 4, "yellow")
+setColor(7, 5, "yellow")
+setColor(7, 6, "yellow")
+
+setColor(8, 3, "yellow")
+setColor(8, 4, "yellow")
+setColor(8, 5, "yellow")
+
